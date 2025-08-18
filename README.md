@@ -100,19 +100,6 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack** wit
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Dilshad313&repo=project-name&theme=react)](https://github.com/Dilshad313/project-name)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Dilshad313&repo=another-project&theme=react)](https://github.com/Dilshad313/another-project)
-
-</div>
-
-> **Note:** Replace `project-name` and `another-project` with your actual repository names
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
