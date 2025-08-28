@@ -49,7 +49,7 @@ I'm a passionate **Full Stack Developer** who believes in the power of clean cod
 
 ```javascript
 const dilshad = {
-    location: "Kochi, Kerala, India 🇮🇳",
+    location: "Mannarkkad, Palakkad, Kerala, India 🇮🇳",
     currentRole: "Full Stack Developer Intern @ Softroniics",
     code: ["JavaScript", "Python", "Java", "C", "TypeScript"],
     specialties: ["MERN Stack", "REST APIs", "Database Design"],
